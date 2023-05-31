@@ -1,5 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alitor004/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alitor_004/)
+![Alitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=alitor004&show_icons=true&theme=radical)
 
 
 <div style="display: inline_block"> <br>
