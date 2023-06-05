@@ -1,6 +1,6 @@
 
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?gustavoleiter=anuraghazra&show_icons=true&theme=radical)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?Gustavoleiter=anuraghazra&show_icons=true&theme=radical)
 
 
 
