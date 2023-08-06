@@ -1,6 +1,5 @@
 ## Olá !! Eu sou o Gustavo Leite
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoleiter&show_icons=true&theme=radical)
 
 
 
